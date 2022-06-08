@@ -3,7 +3,8 @@ package gandi
 import (
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/libdns/gandi"
+
+	gandi "github.com/ThreeFx/libdnsgandi"
 )
 
 // Provider wraps the provider implementation as a Caddy module.
