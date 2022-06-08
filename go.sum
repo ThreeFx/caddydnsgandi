@@ -44,6 +44,8 @@ github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6/go.mod h1:3eOhrU
 github.com/ThomasRooney/gexpect v0.0.0-20161231170123-5482f0350944/go.mod h1:sPML5WwI6oxLRLPuuqbtoOKhtmpVDCYtwsps+I+vjIY=
 github.com/ThreeFx/libdnsgandi v0.0.0-20220608005031-b892b8084f34 h1:Xi76Hc3e7hXlbw5NoqgNjivu923df2tr5GUMd3jb7Po=
 github.com/ThreeFx/libdnsgandi v0.0.0-20220608005031-b892b8084f34/go.mod h1:FUoiqDRyHRxK1xyRQ+zqWxeHcn1h+gehB1K6ndHVCxY=
+github.com/ThreeFx/libdnsgandi v0.0.0-20220608010101-140c91995d1a h1:jyC58P2Z8bOw5G46/QCftX3+hiLHiu1/V5PRbcnztgo=
+github.com/ThreeFx/libdnsgandi v0.0.0-20220608010101-140c91995d1a/go.mod h1:FUoiqDRyHRxK1xyRQ+zqWxeHcn1h+gehB1K6ndHVCxY=
 github.com/VividCortex/gohistogram v1.0.0/go.mod h1:Pf5mBqqDxYaXu3hDrrU+w6nw50o/4+TcAqDqk/vUH7g=
 github.com/afex/hystrix-go v0.0.0-20180502004556-fa1af6a1f4f5/go.mod h1:SkGFH1ia65gfNATL8TAiHDNxPzPdmEL5uirI2Uyuz6c=
 github.com/akavel/rsrc v0.8.0/go.mod h1:uLoCtb9J+EyAqh+26kdrTgmzRBFPGOolLWKpdxkKq+c=
